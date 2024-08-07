@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaryKthedatascientist
 - 👀 I’m a UI/UX designing 
-- 🌱 I’m currently learning DATA Science
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on with people relevant to my field
 - 📫 khanmarry2003@gmail.com
 - 😄 Pronouns: she/her
